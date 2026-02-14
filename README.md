@@ -7,7 +7,7 @@ No JavaScript was used.
 
 ## Website Pages
 - Home page
-- Services page
+- Catalog Page
 - Contact page
 
 ## Technologies Used
