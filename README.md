@@ -19,7 +19,7 @@ No JavaScript was used.
 https://0rteez.github.io/EleganceX/
 
 ## Screenshots
-![Homepage](Images/homepage.png)
+![Homepage](Image/homepage.png)
 
 ## Author
 Gradi Miguel – CST0400 – 2025/26
